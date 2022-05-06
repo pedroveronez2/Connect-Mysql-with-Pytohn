@@ -1,0 +1,2 @@
+# Connect-Mysql-with-Pytohn
+THIS LITTLE CODE IS FOR YOU TO BE ABLE TO CONNECT TO YOUR DATABASE with mysql
