@@ -7,5 +7,5 @@ concetion = mysql.connector.connect(
     database='sistema_login',
 )
 
-# using commit mysql
+# using command mysql
 cursor = concetion.cursor()
